@@ -1,7 +1,7 @@
 # SECURE_OTFS_RIS
 Simulation code for “Two-Fold Physical Layer Security for OTFS-Aided RIS Communication” 2024 IEEE Wireless Communications and Networking Conference (WCNC), Dubai, United Arab Emirates, 2024, pp. 1-6, doi: 10.1109/WCNC57260.2024.10570849. 
 #  License and Referencing
-This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite our original article shown above.
+This code package is licensed under the GPLv3 license. If you in any way use this code for research that results in publications, please cite our original article shown above.
 # Abstract
 The integration of orthogonal time frequency and
 space modulation technique (OTFS) and reconfigurable intelligent surfaces (RIS) provides a promising solution for better
